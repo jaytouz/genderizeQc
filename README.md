@@ -7,7 +7,7 @@ https://www.donneesquebec.ca/recherche/dataset/banque-de-prenoms-filles
 
 # installl
 ```bash
-pip install genderizeQc
+pip install genderizerQc
 ```
 # How to use
 ```py
